@@ -4,4 +4,6 @@
 
 **全版本通杀**
 
+源码: [https://github.com/bingqiu456/bilili_fuckads](https://github.com/bingqiu456/bilili_fuckads)
+
 捐赠 [https://afdian.com/a/bingyue_blog](https://afdian.com/a/bingyue_blog)
